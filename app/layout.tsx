@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Medium Clone",
   description: "A place to read, write, and deepen your understanding",
-    generator: 'v0.dev'
+    generator: 'Dua Rizwan'
 }
 
 export default function RootLayout({
